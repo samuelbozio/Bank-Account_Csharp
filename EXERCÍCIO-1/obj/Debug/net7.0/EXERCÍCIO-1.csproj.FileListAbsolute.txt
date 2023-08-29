@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\bin\Debug\net7.0\EXERCÍCIO-1.exe
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\bin\Debug\net7.0\EXERCÍCIO-1.deps.json
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\bin\Debug\net7.0\EXERCÍCIO-1.runtimeconfig.json
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\bin\Debug\net7.0\EXERCÍCIO-1.dll
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\bin\Debug\net7.0\EXERCÍCIO-1.pdb
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\obj\Debug\net7.0\EXERCÍCIO-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\obj\Debug\net7.0\EXERCÍCIO-1.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\obj\Debug\net7.0\EXERCÍCIO-1.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\obj\Debug\net7.0\EXERCÍCIO-1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\obj\Debug\net7.0\EXERCÍCIO-1.dll
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\obj\Debug\net7.0\refint\EXERCÍCIO-1.dll
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\obj\Debug\net7.0\EXERCÍCIO-1.pdb
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\obj\Debug\net7.0\EXERCÍCIO-1.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Projetos C#\EXERCÍCIO-1\EXERCÍCIO-1\obj\Debug\net7.0\ref\EXERCÍCIO-1.dll
